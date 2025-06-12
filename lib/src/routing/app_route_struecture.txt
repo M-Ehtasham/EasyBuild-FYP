@@ -1,0 +1,47 @@
+[1] Welcome/Sign In
+    |
+    +---> [2] Sign Up Client
+    |       |
+    |       +---> [5] Client Dashboard
+    |               |
+    |               +---> [9] Search Services -----> [10] Service Detail
+    |               |
+    |               +---> [11] Cost Calculator
+    |               |
+    |               +---> [12] Profile
+    |               |       |
+    |               |       +---> [18] History
+    |               |       |
+    |               |       +---> [19] Settings
+    |               |
+    |               +---> [17] Project Management
+    |
+    +---> [3] Sign Up Constructor
+    |       |
+    |       +---> [6] Constructor Dashboard
+    |               |
+    |               +---> [13] Job Applications
+    |               |
+    |               +---> [14] Submit Bid
+    |               |
+    |               +---> [15] Schedule
+    |               |
+    |               +---> [12] Profile --+
+    |                                    |
+    +---> [4] Sign Up Designer          |
+            |                            |
+            +---> [7] Designer Dashboard|
+                    |                    |
+                    +---> [16] View Portfolio
+                    |                    |
+                    +---> [12] Profile --+
+                                          |
+[8] Help & Support <----------------------+
+                                          |
+[20] Map Screen <-------------------------+
+                                          |
+[21] Notifications <----------------------+
+                                          |
+[22] Messages <---------------------------+
+                                          |
+[23] Payment <-----------------------------+
